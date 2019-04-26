@@ -3,7 +3,7 @@ description: Webjeda slides is built using revealjs. The idea is to keep all the
 
 
 
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://reverser95.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 
