@@ -3,8 +3,8 @@ description: Webjeda slides is built using revealjs. The idea is to keep all the
 
 
 
-baseurl: 
-url: "http://webjeda.com" # the base hostname & protocol for your site
+baseurl:
+url:
 permalink: /:title/
 
 
