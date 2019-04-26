@@ -4,7 +4,7 @@ description: Webjeda slides is built using revealjs. The idea is to keep all the
 
 
 baseurl:
-url:
+url:"https://reverser95.github.io"
 permalink: /:title/
 
 
